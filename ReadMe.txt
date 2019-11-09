@@ -9,6 +9,6 @@ Steps to compare Google photo albums with photos on  local drive
  - Get recursive list of folders on local drives.  On Linux this can be done with :
     du -a /tmp/dir1/
     
- - Perform a simple compare in Excel 
+ - Perform a simple compare in Excel (I have an Excel Power BI file set up to do this)
  
  
